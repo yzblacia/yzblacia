@@ -7,7 +7,7 @@
 </div>
 
 <!-- Header -->
-# Hi, I'm YourName
+# Hi, I'm yzblacia
 *BCI Researcher / Master's Student / AI Explorer*
 <br />
 
