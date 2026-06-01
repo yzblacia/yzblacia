@@ -3,7 +3,7 @@
 
 <!-- Right-side illustration -->
 <div>
-  <img align="right" width="40%" src="./assets/bci.png" alt="BCI and AI agent illustration" />
+  <img align="right" width="40%" src="./bci.png" alt="BCI and AI agent illustration" />
 </div>
 
 <!-- Header -->
